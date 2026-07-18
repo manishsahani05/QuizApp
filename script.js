@@ -152,16 +152,6 @@ const questions = [
     },
 
     {
-        question: "What is 4 × 3 ?",
-        answer: [
-            { text: "10", correct: false },
-            { text: "12", correct: true },
-            { text: "14", correct: false },
-            { text: "16", correct: false }
-        ]
-    },
-
-    {
         question: "HTML stands for?",
         answer: [
             { text: "Hyper Text Markup Language", correct: true },
