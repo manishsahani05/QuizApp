@@ -142,16 +142,6 @@ const questions = [
     },
 
     {
-        question: "Who is the Prime Minister of India?",
-        answer: [
-            { text: "Narendra Modi", correct: true },
-            { text: "Rahul Gandhi", correct: false },
-            { text: "Amit Shah", correct: false },
-            { text: "Yogi Adityanath", correct: false }
-        ]
-    },
-
-    {
         question: "HTML stands for?",
         answer: [
             { text: "Hyper Text Markup Language", correct: true },
