@@ -1,4 +1,4 @@
 ## 🌐 Live Demo
 
 🔗 **Live Demo:**  
-https://manishsahani05.github.io/QuizApp/
+https://err0rslayer.github.io/QuizApp/
